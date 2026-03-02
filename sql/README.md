@@ -1,1 +1,7 @@
-SQL scripts used to create and manage Gold-layer analytical tables.
+# SQL Layer (Gold)
+
+Contains:
+- Stored Procedure used for pipeline control
+- SQL script for fact tables
+
+Used in the Gold layer to build analytics-ready tables.
