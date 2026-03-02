@@ -1,1 +1,9 @@
-Sample input data used for testing and demonstration purposes.
+# Sample Data
+
+Dataset used for:
+- Initial Load
+- Incremental Load
+
+Files:
+- SalesData.xlsx
+- IncrementalSales.xlsx
