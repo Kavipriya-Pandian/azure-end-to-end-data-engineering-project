@@ -1,1 +1,1 @@
-To visually explain the end-to-end pipeline.
+This folder contains the complete architecture for the Azure End-to-End Data Engineering Project.
