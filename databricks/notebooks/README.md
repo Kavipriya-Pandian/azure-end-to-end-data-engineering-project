@@ -1,1 +1,1 @@
-Spark notebooks for Bronze, Silver, and Gold layer processing.
+Spark notebooks for Silver, and Gold layer processing.
